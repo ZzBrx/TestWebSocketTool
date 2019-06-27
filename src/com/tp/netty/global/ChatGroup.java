@@ -1,4 +1,4 @@
-package org.wisdom.netty.global;
+package com.tp.netty.global;
 
 import io.netty.channel.group.ChannelGroup;
 

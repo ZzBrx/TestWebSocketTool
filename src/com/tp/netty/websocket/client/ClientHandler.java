@@ -1,4 +1,4 @@
-package org.wisdom.netty.websocket.client;
+package com.tp.netty.websocket.client;
 
 import java.io.UnsupportedEncodingException;
 

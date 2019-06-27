@@ -1,4 +1,4 @@
-package org.wisdom.netty.websocket.client;
+package com.tp.netty.websocket.client;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.socket.SocketChannel;
